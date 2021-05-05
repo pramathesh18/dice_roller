@@ -1,0 +1,7 @@
+This is a detail file about the working of the virtual dice roller.
+this program starts with a home page. i.e. welcome page.
+the main game function works with  RANDOM function to generate the number of times the dice will roll.
+then again with RANDOM the program decides the number on the dice..
+For further development the plan is to same the outputs in a file with user name.
+thats all......
+
